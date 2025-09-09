@@ -16,9 +16,9 @@ Develop a comprehensive report for the following exercises:
 
 **Title:** Fundamentals of Generative AI and Large Language Models (LLMs)
 
-**Author:** K SAGAR KRISHNA
+**Author:** Koti Sai Sankar
 
-**Reg no:** 212222110037
+**Reg no:** 212222240111
 
 ---
 
